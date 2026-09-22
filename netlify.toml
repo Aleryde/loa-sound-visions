@@ -1,0 +1,5 @@
+# Pubblicazione del sito LOA Sound Visions.
+# Il sito e' statico e gia' pronto: nessun passaggio di build, si pubblica
+# il contenuto della cartella principale cosi' com'e'.
+[build]
+  publish = "."
